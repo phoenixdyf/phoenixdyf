@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi there, I'm Yafei Deng
+<img align="right" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="120px"/>
 
-<!--
-**phoenixdyf/phoenixdyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 💻: AI Ops Engineer at Huawei 2012 lab 
+  - :mortar_board: Ph.D. graduate from Shanghai Jiao Tong University (2024.03)
+  - 🌱 Currently learning everything related to AI for Prognostic and Health Management
+  - 👯 Looking to collaborate with others
+  - ⚡ Fun fact: Love to play basketball
+  - 🌐 [Check my personal Google Scholar for more information ↗️](https://scholar.google.com.hk/citations?user=-mW9Ny0AAAAJ&hl=zh-CN&oi=ao)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📕 Latest Publications
+<!-- BLOG-POST-LIST:START -->
+- [Combining the theoretical bound and deep adversarial network for machinery open-set diagnosis transfer](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005143)
+- [A Calibration-Based Hybrid Transfer Learning Framework for RUL Prediction of Rolling Bearing Across Different Machines](https://ieeexplore.ieee.org/abstract/document/10078406)
+- [A double-layer attention based adversarial network for partial transfer learning in machinery fault diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0166361521000063)
+- [Prognostic study of ball screws by ensemble data-driven particle filters](https://www.sciencedirect.com/science/article/abs/pii/S0278612520300996)
+
+---
+
+
+[AI]: https://www.ibm.com/cloud/learn/what-is-artificial-intelligence
+[Jupyter]: https://jupyter.org/
+[Git]: https://en.wikipedia.org/wiki/Gi
+[Github]: https://github.com/Charlie5DH
+[Python]: https://www.python.org/
+[Tensorflow]: https://www.tensorflow.org/
+[Keras]: https://keras.io/
+[Sklearn]: https://scikit-learn.org/stable/
+[C++]: https://en.wikipedia.org/wiki/C_(programming_language)
+[Numpy]: https://numpy.org/
+[Orcid]: https://orcid.org/0000-0003-0699-5160

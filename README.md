@@ -3,7 +3,7 @@
 
   - 💻: As an **AI Ops Engineer at Huawei's 2012 Lab**, I dedicate myself to the cutting-edge research of AI-driven system optimization and the enablement of **intelligent PHM for cloud services and industrial equipment**.
 
-    *My focus revolves around exploring novel technologies in AI4System, AIOps, and System4AI, with applications spanning AI system enhancements, anomaly detection, fault diagnosis, and performance tuning in both cloud environments and industrial settings.*
+    *My focus revolves around exploring novel technologies in AI4System, AIOps, and System4AI, with applications spanning **AI system enhancements, anomaly detection, fault diagnosis, and performance tuning** in both cloud environments and industrial settings.*
   - :mortar_board: Ph.D. graduate from **Shanghai Jiao Tong University** (2024.03)
   - 🌱 Currently learning everything related to **AI for Prognostic and Health Management**
   - 👯 Looking to collaborate with others

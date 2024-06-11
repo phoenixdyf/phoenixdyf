@@ -6,8 +6,6 @@
     *My focus revolves around exploring novel technologies in AI4System, AIOps, and System4AI, with applications spanning **AI system enhancements, anomaly detection, fault diagnosis, and performance tuning** in both cloud environments and industrial settings.*
   - :mortar_board: Ph.D. graduate from **Shanghai Jiao Tong University** (2024.03)
   - 🌱 Currently learning everything related to **AI for Prognostic and Health Management**
-  - 👯 Looking to collaborate with others
-  - ⚡ Fun fact: Love to play basketball
 
 ### ❤️ Academic homepage
 
@@ -19,6 +17,7 @@
 
 
 ### 📕 Publications
+----
 <!-- BLOG-POST-LIST:START -->
 ## [Combining the theoretical bound and deep adversarial network for machinery open-set diagnosis transfer](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005143)
 
@@ -43,15 +42,3 @@
 ### 融合磨损机理模型和数据驱动算法实现滚珠丝杠的状况监控[![Citation Count](https://img.shields.io/badge/citations-62-blue)](https://example.com/link_to_your_paper)
 ----
 
-
-[AI]: https://www.ibm.com/cloud/learn/what-is-artificial-intelligence
-[Jupyter]: https://jupyter.org/
-[Git]: https://en.wikipedia.org/wiki/Gi
-[Github]: https://github.com/Charlie5DH
-[Python]: https://www.python.org/
-[Tensorflow]: https://www.tensorflow.org/
-[Keras]: https://keras.io/
-[Sklearn]: https://scikit-learn.org/stable/
-[C++]: https://en.wikipedia.org/wiki/C_(programming_language)
-[Numpy]: https://numpy.org/
-[Orcid]: https://orcid.org/0000-0003-0699-5160
